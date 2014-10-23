@@ -14,6 +14,7 @@
 		EDA3844719F97D3A0006A016 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDA3844619F97D3A0006A016 /* Images.xcassets */; };
 		EDA3844A19F97D3A0006A016 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = EDA3844819F97D3A0006A016 /* LaunchScreen.xib */; };
 		EDA3845619F97D3B0006A016 /* HazirlikAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA3845519F97D3B0006A016 /* HazirlikAppTests.swift */; };
+		EDA3846019F97F320006A016 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA3845F19F97F320006A016 /* HomeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		EDA3844F19F97D3B0006A016 /* HazirlikAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HazirlikAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDA3845419F97D3B0006A016 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EDA3845519F97D3B0006A016 /* HazirlikAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HazirlikAppTests.swift; sourceTree = "<group>"; };
+		EDA3845F19F97F320006A016 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				EDA3844819F97D3A0006A016 /* LaunchScreen.xib */,
 				EDA3843E19F97D3A0006A016 /* HazirlikApp.xcdatamodeld */,
 				EDA3843A19F97D3A0006A016 /* Supporting Files */,
+				EDA3845F19F97F320006A016 /* HomeViewController.swift */,
 			);
 			path = HazirlikApp;
 			sourceTree = "<group>";
@@ -218,6 +221,7 @@
 				EDA3844219F97D3A0006A016 /* ViewController.swift in Sources */,
 				EDA3843D19F97D3A0006A016 /* AppDelegate.swift in Sources */,
 				EDA3844019F97D3A0006A016 /* HazirlikApp.xcdatamodeld in Sources */,
+				EDA3846019F97F320006A016 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
