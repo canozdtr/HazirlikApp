@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BBFB32BC19FA1F7F00FC0855 /* TutorialTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBFB32BB19FA1F7F00FC0855 /* TutorialTableViewController.swift */; };
 		EDA3843D19F97D3A0006A016 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA3843C19F97D3A0006A016 /* AppDelegate.swift */; };
 		EDA3844019F97D3A0006A016 /* HazirlikApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EDA3843E19F97D3A0006A016 /* HazirlikApp.xcdatamodeld */; };
 		EDA3844219F97D3A0006A016 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA3844119F97D3A0006A016 /* ViewController.swift */; };
@@ -28,6 +29,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BBFB32BB19FA1F7F00FC0855 /* TutorialTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TutorialTableViewController.swift; sourceTree = "<group>"; };
 		EDA3843719F97D3A0006A016 /* HazirlikApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HazirlikApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDA3843B19F97D3A0006A016 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EDA3843C19F97D3A0006A016 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 				EDA3843E19F97D3A0006A016 /* HazirlikApp.xcdatamodeld */,
 				EDA3843A19F97D3A0006A016 /* Supporting Files */,
 				EDA3845F19F97F320006A016 /* HomeViewController.swift */,
+				BBFB32BB19FA1F7F00FC0855 /* TutorialTableViewController.swift */,
 			);
 			path = HazirlikApp;
 			sourceTree = "<group>";
@@ -221,6 +224,7 @@
 				EDA3844219F97D3A0006A016 /* ViewController.swift in Sources */,
 				EDA3843D19F97D3A0006A016 /* AppDelegate.swift in Sources */,
 				EDA3844019F97D3A0006A016 /* HazirlikApp.xcdatamodeld in Sources */,
+				BBFB32BC19FA1F7F00FC0855 /* TutorialTableViewController.swift in Sources */,
 				EDA3846019F97F320006A016 /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -415,6 +419,7 @@
 				EDA3845B19F97D3B0006A016 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EDA3845C19F97D3B0006A016 /* Build configuration list for PBXNativeTarget "HazirlikAppTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +428,7 @@
 				EDA3845E19F97D3B0006A016 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
